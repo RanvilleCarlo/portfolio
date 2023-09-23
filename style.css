@@ -1,0 +1,15 @@
+/* styles.css */
+
+/* Custom styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Adjust the portfolio item styles */
+.portfolio-item {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+/* Add more custom styles as needed */
